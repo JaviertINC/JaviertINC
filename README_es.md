@@ -5,7 +5,7 @@ Soy Programador Informático, especializado en el diseño, desarrollo y modifica
 
 ##### Visita mi sitio web personal
 ## **[JaviertINC.cl](https://javiertinc.cl)**
-Aquí podrás encontrar:
+En mi sitio web podrás encontrar:
 - Detalles sobre mis habilidades. 👨🏻‍💻
 - Algunos de mis proyectos personales y colaboraciones. 😎
 - Aplicaciones y modificaciones varias. 😉
