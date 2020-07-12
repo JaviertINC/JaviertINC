@@ -16,6 +16,6 @@ También te recomiendo:
 - Visitar mis modificaciónes de Userscripts **[aquí](https://javiertinc.cl/userscripts)**.
 - Darle un vistazo a mi plataforma gratuita de capturas **[Captys](https://javiertinc.cl/captys)**.
 
-[View in English](README_es.md)
+[View in English](README.md)
 
 #### ¡Saludos!
