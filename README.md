@@ -1,16 +1,17 @@
-### Hi there 👋
+# Luis Cortés | @JaviertINC
+### ¡Hola! 👋
 
-<!--
-**JaviertINC/JaviertINC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Programador Informático especializado en el desarrollo web FrontEnd, estudiante de Ingeniería en Informática y licenciado como Técnico Programador Informático.
 
-Here are some ideas to get you started:
+##### Visita mi sitio web personal
+## **[JaviertINC.cl](https://javiertinc.cl)**
+Aquí podrás encontrar:
+- Detalles sobre mis habilidades. 👨🏻‍💻
+- Algunos de mis proyectos personales y colaboraciones. 😎
+- Aplicaciones y modificaciones varias. 😉
+- Y proximamente mi portafolios detallado. 😃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+También te recomiendo:
+- Visitar mis modificaciónes de Userscripts **[aquí](https://javiertinc.cl/userscripts)**.
+- Darle un vistazo a mi plataforma gratuita de capturas **[Captys](https://javiertinc.cl/captys)**.
