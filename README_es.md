@@ -13,6 +13,7 @@ En mi sitio web podrás encontrar:
 
 ---
 También te recomiendo:
+- Prueba mi extensión jtWhatsApp para Firefox en **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/jtwhatsapp/)**.
 - Visitar mis modificaciónes de Userscripts **[aquí](https://javiertinc.cl/userscripts)**.
 - Darle un vistazo a mi plataforma gratuita de capturas **[Captys](https://javiertinc.cl/captys)**.
 
