@@ -13,7 +13,7 @@ On my website you can find:
 
 ---
 I also recommend you:
-- Visit my jtWhatsApp extension for **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/jtwhatsapp/)**.
+- Visit my **[jtWhatsApp](https://addons.mozilla.org/en-US/firefox/addon/jtwhatsapp/)** addon for Firefox.
 - Visit my Userscripts modifications **[here](https://javiertinc.cl/userscripts)**.
 - Take a look at my free capture platform **[Captys](https://javiertinc.cl/captys)**.
  
